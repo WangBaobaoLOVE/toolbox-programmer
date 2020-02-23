@@ -27,7 +27,8 @@
 ## 编辑器
 
 - vscode
-> 我目前使用它编写md文件、html、css、js代码。
+  - 我目前使用它编写md文件、html、css、js代码。
+  - Live server (插件)：保存文件，自动刷新浏览器页面
 
 - PyCharm
 > 我目前使用它编写python3代码。
@@ -71,6 +72,7 @@
 
 - [picpick(截屏)](https://picpick.app/zh/download)
 > 我目前使用的截屏软件，有免费版和付费版。
+- [pandownload(百度云下载提速工具)](http://pandownload.com/)
 
 ## 网页工具
 
@@ -107,12 +109,19 @@
   - [ProcessOn](https://www.processon.com/)
   > ProcessOn是一个在线作图工具的聚合平台,画流程图、思维导图、UI原型图、UML、网络拓扑图、组织结构图等等.
 
+- Js数据可视化框架
+  - [echarts](https://www.echartsjs.com/zh/index.html)
+  - [D3.js](https://d3js.org/)
+
+- python数据可视化第三方库
+  - matplotlib
+
 ### 数据库
 
 - Navicat
 > 我目前在ubuntu中使用的是他，通过删除他的记录文件获得永久使用权限。
 - mysql
-> 另一个我常用的数据库。
+> 一个我常用的数据库。
 
 ## 开源项目
 
@@ -137,3 +146,4 @@
 
   - 优化算法
     - 蚁群算法
+    - 粒子群算法(PSO)
